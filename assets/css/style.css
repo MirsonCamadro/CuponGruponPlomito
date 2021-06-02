@@ -1,0 +1,12 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+p, input[placeholder]{
+    font-weight: 300;
+}
+
+
+.plomito {
+    color: #707070;
+}
